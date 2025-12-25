@@ -1,5 +1,4 @@
 # PetBoardingProject
-Gem City Pet Boarding
 
 🐾 Gem City Pet Boarding
 
